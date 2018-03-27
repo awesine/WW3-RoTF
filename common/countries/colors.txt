@@ -1518,3 +1518,8 @@ MRU = {
 	color = rgb { 64 224 208 }
 	color_ui = rgb { 64 224 208 }
 }
+
+NFR = {
+  color = rgb { 255, 51, 51 }
+  color_ui = rgb { 230, 0, 0 }
+}
